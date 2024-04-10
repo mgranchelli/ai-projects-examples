@@ -4,4 +4,4 @@ Nel repo sono riportati alcuni esempi di applicazione dell'IA.
 - [AlzheimerPrediction](AlzheimerPrediction.ipynb) (No GPU): predizione Alzheimer da dati;
 - [FacialExpressionRecognition](FacialExpressionRecognition.ipynb) (GPU): identificazione espressioni facciali;
 - [RunningInjuryPrediction](RunningInjuryPrediction.ipynb) (No GPU): predizione infortuni;
-- [TrafficPrediction](TrafficPrediction.ipynb) (No GPU): predizione traffico.
+- [TrafficPrediction](TrafficPrediction.ipynb) (GPU): predizione traffico.
